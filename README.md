@@ -707,7 +707,7 @@ The following screenshots demonstrate the implementation of the database across 
 
 ---
 
-![Project Overview](Screenshots/01_Project_Overview.png)
+![Project Overview](3. Screenshots/01_Project_Overview.png)
 
 ---
 
