@@ -831,7 +831,7 @@ Business entities integrated through relational database design.
 
 ---
 
-![HR Views](3.%20Screenshots/06a_HR_Views.png)
+![HR Views](3.%20Screenshots/06a_Database_Views.png)
 
 ---
 
@@ -839,7 +839,7 @@ HR views simplify employee, attendance, and workforce reporting.
 
 ---
 
-![Project Views](3.%20Screenshots/06b_Project_Views.png)
+![Project Views](3.%20Screenshots/06b_Database_Views.png)
 
 ---
 
@@ -847,7 +847,7 @@ Project views consolidate project information for operational reporting.
 
 ---
 
-![Procurement Views](3.%20Screenshots/06c_Procurement_Views.png)
+![Procurement Views](3.%20Screenshots/06c_Database_Views.png)
 
 ---
 
@@ -855,7 +855,7 @@ Procurement views summarize suppliers, purchase orders, and procurement activiti
 
 ---
 
-![Finance & Inventory Views](3.%20Screenshots/06d_Finance_Inventory_Views.png)
+![Finance & Inventory Views](3.%20Screenshots/06d_Database_Views.png)
 
 ---
 
@@ -923,7 +923,7 @@ Common Table Expressions (CTEs) simplify complex business queries.
 
 ---
 
-![Advanced SQL - Window Functions](3.%20Screenshots/11b_Advanced_SQL_Window_Functions.png)
+![Advanced SQL - Window Functions](3.%20Screenshots/11b_Advanced_SQL_WindowsFucntions.png)
 
 ---
 
@@ -951,7 +951,8 @@ JSON processing demonstrates PostgreSQL's capability to manage semi-structured d
 
 ---
 
-![Executive Report](3.%20Screenshots/12a_Executive_Report.png)
+![Executive Report](3.%20Screenshots/12a_Executive_Dashboard_Report.png
+)
 
 ---
 
@@ -959,7 +960,7 @@ Executive dashboard summarizing company performance and business operations.
 
 ---
 
-![Executive Report](3.%20Screenshots/12b_Executive_Report.png)
+![Executive Report](3.%20Screenshots/12b_Executive_Dashboard_Report.png)
 
 ---
 
@@ -967,7 +968,7 @@ Business performance indicators supporting strategic decision-making.
 
 ---
 
-![Executive Report](3.%20Screenshots/12c_Executive_Report.png)
+![Executive Report](3.%20Screenshots/12c_Executive_Dashboard_Report.png)
 
 ---
 
@@ -975,7 +976,7 @@ Project portfolio and operational performance analysis.
 
 ---
 
-![Executive Report](3.%20Screenshots/12d_Executive_Report.png)
+![Executive Report](3.%20Screenshots/12d_Executive_Dashboard_Report.png)
 
 ---
 
@@ -983,7 +984,7 @@ Financial overview supporting executive reporting.
 
 ---
 
-![Executive Report](3.%20Screenshots/12e_Executive_Report.png)
+![Executive Report](3.%20Screenshots/12e_Executive_Dashboard_Report.png)
 
 ---
 
@@ -991,7 +992,7 @@ Company-wide operational metrics and KPIs.
 
 ---
 
-![Executive Report](3.%20Screenshots/12f_Executive_Report.png)
+![Executive Report](3.%20Screenshots/12f_Executive_Dashboard_Report.png)
 
 ---
 
