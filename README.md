@@ -703,7 +703,7 @@ The following screenshots demonstrate the implementation of the database across 
 
 ---
 
-# 1. Project Overview
+### 1. Project Overview
 
 ---
 
