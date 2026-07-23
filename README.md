@@ -2,7 +2,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmad.ancc-construction-management-database)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue?logo=postgresql)
-![SQL](https://img.shields.io/badge/SQL-Advanced-success)
+![SQL](https://img.shields.io/badge/SQL--success)
 
 ---
 
