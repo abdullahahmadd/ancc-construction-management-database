@@ -715,11 +715,11 @@ Shows the PostgreSQL environment, active database, schema information, and serve
 
 ---
 
-# 2. Entity Relationship Diagram (ERD)
+### 2. Entity Relationship Diagram (ERD)
 
 ---
 
-![Entity Relationship Diagram](Screenshots/02_Entity_Relationship_Diagram.png)
+![Entity Relationship Diagram](3.%20Screenshots/02_Entity_Relationship_Diagram.png)
 
 ---
 
@@ -727,11 +727,11 @@ The ERD illustrates the complete relational database structure, including entiti
 
 ---
 
-# 3. Database Tables
+### 3. Database Tables
 
 ---
 
-![Database Tables](Screenshots/03a_Database_Tables.png)
+![Database Tables](3.%20Screenshots/03a_Database_Tables.png)
 
 ---
 
@@ -739,7 +739,7 @@ The database schema contains multiple interconnected tables representing organiz
 
 ---
 
-![Database Tables](Screenshots/03b_Database_Tables.png)
+![Database Tables](3.%20Screenshots/03b_Database_Tables.png)
 
 ---
 
@@ -747,11 +747,11 @@ Verification of database objects confirms successful schema creation and organiz
 
 ---
 
-# 4. Master Data
+### 4. Master Data
 
 ---
 
-![Master Data](Screenshots/04a_Master_Data.png)
+![Master Data](3.%20Screenshots/04a_Master_Data.png)
 
 ---
 
@@ -759,7 +759,7 @@ Reference data including countries, cities, project statuses, and lookup tables 
 
 ---
 
-![Master Data](Screenshots/04b_Master_Data.png)
+![Master Data](3.%20Screenshots/04b_Master_Data.png)
 
 ---
 
@@ -767,7 +767,7 @@ Material categories, equipment categories, payment methods, and contract types u
 
 ---
 
-![Master Data](Screenshots/04c_Master_Data.png)
+![Master Data](3.%20Screenshots/04c_Master_Data.png)
 
 ---
 
@@ -775,7 +775,7 @@ Business lookup information ensuring standardized values throughout the system.
 
 ---
 
-![Master Data](Screenshots/04d_Master_Data.png)
+![Master Data](3.%20Screenshots/04d_Master_Data.png)
 
 ---
 
