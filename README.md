@@ -783,11 +783,11 @@ Validation of master data records after successful population.
 
 ---
 
-# 5. Core Business Data
+### 5. Core Business Data
 
 ---
 
-![Core Business Data](Screenshots/05a_Core_Business_Data.png)
+![Core Business Data](3.%20Screenshots/05a_Core_Business_Data.png)
 
 ---
 
@@ -795,7 +795,7 @@ Organizational structure including branches, departments, and job positions.
 
 ---
 
-![Core Business Data](Screenshots/05b_Core_Business_Data.png)
+![Core Business Data](3.%20Screenshots/05b_Core_Business_Data.png)
 
 ---
 
@@ -803,7 +803,7 @@ Clients, suppliers, materials, warehouses, and equipment supporting construction
 
 ---
 
-![Core Business Data](Screenshots/05c_Core_Business_Data.png)
+![Core Business Data](3.%20Screenshots/05c_Core_Business_Data.png)
 
 ---
 
@@ -811,7 +811,7 @@ Employee records generated using PostgreSQL functions to simulate a realistic wo
 
 ---
 
-![Core Business Data](Screenshots/05d_Core_Business_Data.png)
+![Core Business Data](3.%20Screenshots/05d_Core_Business_Data.png)
 
 ---
 
@@ -819,7 +819,7 @@ Projects, project sites, and inventory records representing ongoing construction
 
 ---
 
-![Core Business Data](Screenshots/05e_Core_Business_Data.png)
+![Core Business Data](3.%20Screenshots/05e_Core_Business_Data.png)
 
 ---
 
@@ -827,11 +827,11 @@ Business entities integrated through relational database design.
 
 ---
 
-# 6. Database Views
+### 6. Database Views
 
 ---
 
-![HR Views](Screenshots/06a_HR_Views.png)
+![HR Views](3.%20Screenshots/06a_HR_Views.png)
 
 ---
 
@@ -839,7 +839,7 @@ HR views simplify employee, attendance, and workforce reporting.
 
 ---
 
-![Project Views](Screenshots/06b_Project_Views.png)
+![Project Views](3.%20Screenshots/06b_Project_Views.png)
 
 ---
 
@@ -847,7 +847,7 @@ Project views consolidate project information for operational reporting.
 
 ---
 
-![Procurement Views](Screenshots/06c_Procurement_Views.png)
+![Procurement Views](3.%20Screenshots/06c_Procurement_Views.png)
 
 ---
 
@@ -855,7 +855,7 @@ Procurement views summarize suppliers, purchase orders, and procurement activiti
 
 ---
 
-![Finance & Inventory Views](Screenshots/06d_Finance_Inventory_Views.png)
+![Finance & Inventory Views](3.%20Screenshots/06d_Finance_Inventory_Views.png)
 
 ---
 
@@ -863,11 +863,11 @@ Finance and inventory views provide reusable datasets for business reporting.
 
 ---
 
-# 7. PostgreSQL Functions
+### 7. PostgreSQL Functions
 
 ---
 
-![Functions](Screenshots/07_PostgreSQL_Functions.png)
+![Functions](3.%20Screenshots/07_PostgreSQL_Functions.png)
 
 ---
 
@@ -875,11 +875,11 @@ User-defined functions encapsulate reusable business logic and analytical calcul
 
 ---
 
-# 8. Stored Procedures
+### 8. Stored Procedures
 
 ---
 
-![Stored Procedures](Screenshots/08_Stored_Procedures.png)
+![Stored Procedures](3.%20Screenshots/08_Stored_Procedures.png)
 
 ---
 
@@ -887,11 +887,11 @@ Stored procedures automate operational workflows across HR, procurement, project
 
 ---
 
-# 9. Database Triggers
+### 9. Database Triggers
 
 ---
 
-![Triggers](Screenshots/09_Database_Triggers.png)
+![Triggers](3.%20Screenshots/09_Database_Triggers.png)
 
 ---
 
@@ -899,11 +899,11 @@ Database triggers automate business rules, maintain audit trails, and ensure dat
 
 ---
 
-# 10. Performance Optimization
+### 10. Performance Optimization
 
 ---
 
-![Performance Optimization](Screenshots/10_Performance_Optimization.png)
+![Performance Optimization](3.%20Screenshots/10_Performance_Optimization.png)
 
 ---
 
@@ -911,11 +911,11 @@ Indexes and execution plan analysis improve query performance and optimize datab
 
 ---
 
-# 11. Advanced SQL
+### 11. Advanced SQL
 
 ---
 
-![Advanced SQL - CTE](Screenshots/11a_Advanced_SQL_CTE.png)
+![Advanced SQL - CTE](3.%20Screenshots/11a_Advanced_SQL_CTE.png)
 
 ---
 
@@ -923,7 +923,7 @@ Common Table Expressions (CTEs) simplify complex business queries.
 
 ---
 
-![Advanced SQL - Window Functions](Screenshots/11b_Advanced_SQL_Window_Functions.png)
+![Advanced SQL - Window Functions](3.%20Screenshots/11b_Advanced_SQL_Window_Functions.png)
 
 ---
 
@@ -931,7 +931,7 @@ Window functions perform analytical calculations without additional aggregation.
 
 ---
 
-![Advanced SQL - Ranking](Screenshots/11c_Advanced_SQL_Ranking.png)
+![Advanced SQL - Ranking](3.%20Screenshots/11c_Advanced_SQL_Ranking.png)
 
 ---
 
@@ -939,7 +939,7 @@ Ranking functions support comparative analysis and business reporting.
 
 ---
 
-![Advanced SQL - JSON](Screenshots/11d_Advanced_SQL_JSON.png)
+![Advanced SQL - JSON](3.%20Screenshots/11d_Advanced_SQL_JSON.png)
 
 ---
 
@@ -947,11 +947,11 @@ JSON processing demonstrates PostgreSQL's capability to manage semi-structured d
 
 ---
 
-# 12. Executive Reports
+### 12. Executive Reports
 
 ---
 
-![Executive Report](Screenshots/12a_Executive_Report.png)
+![Executive Report](3.%20Screenshots/12a_Executive_Report.png)
 
 ---
 
@@ -959,7 +959,7 @@ Executive dashboard summarizing company performance and business operations.
 
 ---
 
-![Executive Report](Screenshots/12b_Executive_Report.png)
+![Executive Report](3.%20Screenshots/12b_Executive_Report.png)
 
 ---
 
@@ -967,7 +967,7 @@ Business performance indicators supporting strategic decision-making.
 
 ---
 
-![Executive Report](Screenshots/12c_Executive_Report.png)
+![Executive Report](3.%20Screenshots/12c_Executive_Report.png)
 
 ---
 
@@ -975,7 +975,7 @@ Project portfolio and operational performance analysis.
 
 ---
 
-![Executive Report](Screenshots/12d_Executive_Report.png)
+![Executive Report](3.%20Screenshots/12d_Executive_Report.png)
 
 ---
 
@@ -983,7 +983,7 @@ Financial overview supporting executive reporting.
 
 ---
 
-![Executive Report](Screenshots/12e_Executive_Report.png)
+![Executive Report](3.%20Screenshots/12e_Executive_Report.png)
 
 ---
 
@@ -991,7 +991,7 @@ Company-wide operational metrics and KPIs.
 
 ---
 
-![Executive Report](Screenshots/12f_Executive_Report.png)
+![Executive Report](3.%20Screenshots/12f_Executive_Report.png)
 
 ---
 
@@ -999,11 +999,11 @@ Executive insights generated from integrated enterprise data.
 
 ---
 
-# 13. HR Reports
+### 13. HR Reports
 
 ---
 
-![HR Report](Screenshots/13a_HR_Report.png)
+![HR Report](3.%20Screenshots/13a_HR_Report.png)
 
 ---
 
@@ -1011,7 +1011,7 @@ Employee workforce analysis and attendance reporting.
 
 ---
 
-![HR Report](Screenshots/13b_HR_Report.png)
+![HR Report](3.%20Screenshots/13b_HR_Report.png)
 
 ---
 
@@ -1019,7 +1019,7 @@ Department-level employee statistics.
 
 ---
 
-![HR Report](Screenshots/13c_HR_Report.png)
+![HR Report](3.%20Screenshots/13c_HR_Report.png)
 
 ---
 
@@ -1027,11 +1027,11 @@ HR operational reporting supporting workforce management.
 
 ---
 
-# 14. Project Reports
+### 14. Project Reports
 
 ---
 
-![Project Report](Screenshots/14a_Project_Report.png)
+![Project Report](3.%20Screenshots/14a_Project_Report.png)
 
 ---
 
@@ -1039,7 +1039,7 @@ Project progress, budgets, and completion tracking.
 
 ---
 
-![Project Report](Screenshots/14b_Project_Report.png)
+![Project Report](3.%20Screenshots/14b_Project_Report.png)
 
 ---
 
@@ -1047,11 +1047,11 @@ Project performance analysis supporting project management.
 
 ---
 
-# 15. Finance Reports
+### 15. Finance Reports
 
 ---
 
-![Finance Report](Screenshots/15a_Finance_Report.png)
+![Finance Report](3.%20Screenshots/15a_Finance_Report.png)
 
 ---
 
@@ -1059,7 +1059,7 @@ Financial summaries including invoices, contracts, and payments.
 
 ---
 
-![Finance Report](Screenshots/15b_Finance_Report.png)
+![Finance Report](3.%20Screenshots/15b_Finance_Report.png)
 
 ---
 
@@ -1067,7 +1067,7 @@ Revenue and payment analysis.
 
 ---
 
-![Finance Report](Screenshots/15c_Finance_Report.png)
+![Finance Report](3.%20Screenshots/15c_Finance_Report.png)
 
 ---
 
@@ -1075,11 +1075,11 @@ Financial reporting supporting business decision-making.
 
 ---
 
-# 16. Inventory Reports
+### 16. Inventory Reports
 
 ---
 
-![Inventory Report](Screenshots/16a_Inventory_Report.png)
+![Inventory Report](3.%20Screenshots/16a_Inventory_Report.png)
 
 ---
 
@@ -1087,7 +1087,7 @@ Inventory availability and warehouse stock levels.
 
 ---
 
-![Inventory Report](Screenshots/16b_Inventory_Report.png)
+![Inventory Report](3.%20Screenshots/16b_Inventory_Report.png)
 
 ---
 
@@ -1095,413 +1095,7 @@ Material movement and stock monitoring.
 
 ---
 
-![Inventory Report](Screenshots/16c_Inventory_Report.png)
-
----
-
-Inventory insights supporting procurement and warehouse operations.
-
----
-
-# Results
-
-The following screenshots demonstrate the implementation of the database across different functional modules, showcasing enterprise database design, SQL development, reporting, and PostgreSQL features.
-
----
-
-# 1. Project Overview
-
----
-
-![Project Overview](Screenshots/01_Project_Overview.png)
-
----
-
-Shows the PostgreSQL environment, active database, schema information, and server version used throughout the project.
-
----
-
-# 2. Entity Relationship Diagram (ERD)
-
----
-
-![Entity Relationship Diagram](Screenshots/02_Entity_Relationship_Diagram.png)
-
----
-
-The ERD illustrates the complete relational database structure, including entities, primary keys, foreign keys, and relationships between business modules.
-
----
-
-# 3. Database Tables
-
----
-
-![Database Tables](Screenshots/03a_Database_Tables.png)
-
----
-
-The database schema contains multiple interconnected tables representing organizational structure, projects, procurement, finance, inventory, and human resources.
-
----
-
-![Database Tables](Screenshots/03b_Database_Tables.png)
-
----
-
-Verification of database objects confirms successful schema creation and organization.
-
----
-
-# 4. Master Data
-
----
-
-![Master Data](Screenshots/04a_Master_Data.png)
-
----
-
-Reference data including countries, cities, project statuses, and lookup tables supporting business operations.
-
----
-
-![Master Data](Screenshots/04b_Master_Data.png)
-
----
-
-Material categories, equipment categories, payment methods, and contract types used across transactional modules.
-
----
-
-![Master Data](Screenshots/04c_Master_Data.png)
-
----
-
-Business lookup information ensuring standardized values throughout the system.
-
----
-
-![Master Data](Screenshots/04d_Master_Data.png)
-
----
-
-Validation of master data records after successful population.
-
----
-
-# 5. Core Business Data
-
----
-
-![Core Business Data](Screenshots/05a_Core_Business_Data.png)
-
----
-
-Organizational structure including branches, departments, and job positions.
-
----
-
-![Core Business Data](Screenshots/05b_Core_Business_Data.png)
-
----
-
-Clients, suppliers, materials, warehouses, and equipment supporting construction operations.
-
----
-
-![Core Business Data](Screenshots/05c_Core_Business_Data.png)
-
----
-
-Employee records generated using PostgreSQL functions to simulate a realistic workforce.
-
----
-
-![Core Business Data](Screenshots/05d_Core_Business_Data.png)
-
----
-
-Projects, project sites, and inventory records representing ongoing construction activities.
-
----
-
-![Core Business Data](Screenshots/05e_Core_Business_Data.png)
-
----
-
-Business entities integrated through relational database design.
-
----
-
-# 6. Database Views
-
----
-
-![HR Views](Screenshots/06a_HR_Views.png)
-
----
-
-HR views simplify employee, attendance, and workforce reporting.
-
----
-
-![Project Views](Screenshots/06b_Project_Views.png)
-
----
-
-Project views consolidate project information for operational reporting.
-
----
-
-![Procurement Views](Screenshots/06c_Procurement_Views.png)
-
----
-
-Procurement views summarize suppliers, purchase orders, and procurement activities.
-
----
-
-![Finance & Inventory Views](Screenshots/06d_Finance_Inventory_Views.png)
-
----
-
-Finance and inventory views provide reusable datasets for business reporting.
-
----
-
-# 7. PostgreSQL Functions
-
----
-
-![Functions](Screenshots/07_PostgreSQL_Functions.png)
-
----
-
-User-defined functions encapsulate reusable business logic and analytical calculations.
-
----
-
-# 8. Stored Procedures
-
----
-
-![Stored Procedures](Screenshots/08_Stored_Procedures.png)
-
----
-
-Stored procedures automate operational workflows across HR, procurement, projects, and finance.
-
----
-
-# 9. Database Triggers
-
----
-
-![Triggers](Screenshots/09_Database_Triggers.png)
-
----
-
-Database triggers automate business rules, maintain audit trails, and ensure data integrity.
-
----
-
-# 10. Performance Optimization
-
----
-
-![Performance Optimization](Screenshots/10_Performance_Optimization.png)
-
----
-
-Indexes and execution plan analysis improve query performance and optimize database operations.
-
----
-
-# 11. Advanced SQL
-
----
-
-![Advanced SQL - CTE](Screenshots/11a_Advanced_SQL_CTE.png)
-
----
-
-Common Table Expressions (CTEs) simplify complex business queries.
-
----
-
-![Advanced SQL - Window Functions](Screenshots/11b_Advanced_SQL_Window_Functions.png)
-
----
-
-Window functions perform analytical calculations without additional aggregation.
-
----
-
-![Advanced SQL - Ranking](Screenshots/11c_Advanced_SQL_Ranking.png)
-
----
-
-Ranking functions support comparative analysis and business reporting.
-
----
-
-![Advanced SQL - JSON](Screenshots/11d_Advanced_SQL_JSON.png)
-
----
-
-JSON processing demonstrates PostgreSQL's capability to manage semi-structured data.
-
----
-
-# 12. Executive Reports
-
----
-
-![Executive Report](Screenshots/12a_Executive_Report.png)
-
----
-
-Executive dashboard summarizing company performance and business operations.
-
----
-
-![Executive Report](Screenshots/12b_Executive_Report.png)
-
----
-
-Business performance indicators supporting strategic decision-making.
-
----
-
-![Executive Report](Screenshots/12c_Executive_Report.png)
-
----
-
-Project portfolio and operational performance analysis.
-
----
-
-![Executive Report](Screenshots/12d_Executive_Report.png)
-
----
-
-Financial overview supporting executive reporting.
-
----
-
-![Executive Report](Screenshots/12e_Executive_Report.png)
-
----
-
-Company-wide operational metrics and KPIs.
-
----
-
-![Executive Report](Screenshots/12f_Executive_Report.png)
-
----
-
-Executive insights generated from integrated enterprise data.
-
----
-
-# 13. HR Reports
-
----
-
-![HR Report](Screenshots/13a_HR_Report.png)
-
----
-
-Employee workforce analysis and attendance reporting.
-
----
-
-![HR Report](Screenshots/13b_HR_Report.png)
-
----
-
-Department-level employee statistics.
-
----
-
-![HR Report](Screenshots/13c_HR_Report.png)
-
----
-
-HR operational reporting supporting workforce management.
-
----
-
-# 14. Project Reports
-
----
-
-![Project Report](Screenshots/14a_Project_Report.png)
-
----
-
-Project progress, budgets, and completion tracking.
-
----
-
-![Project Report](Screenshots/14b_Project_Report.png)
-
----
-
-Project performance analysis supporting project management.
-
----
-
-# 15. Finance Reports
-
----
-
-![Finance Report](Screenshots/15a_Finance_Report.png)
-
----
-
-Financial summaries including invoices, contracts, and payments.
-
----
-
-![Finance Report](Screenshots/15b_Finance_Report.png)
-
----
-
-Revenue and payment analysis.
-
----
-
-![Finance Report](Screenshots/15c_Finance_Report.png)
-
----
-
-Financial reporting supporting business decision-making.
-
----
-
-# 16. Inventory Reports
-
----
-
-![Inventory Report](Screenshots/16a_Inventory_Report.png)
-
----
-
-Inventory availability and warehouse stock levels.
-
----
-
-![Inventory Report](Screenshots/16b_Inventory_Report.png)
-
----
-
-Material movement and stock monitoring.
-
----
-
-![Inventory Report](Screenshots/16c_Inventory_Report.png)
+![Inventory Report](3.%20Screenshots/16c_Inventory_Report.png)
 
 ---
 
